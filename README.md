@@ -16,6 +16,8 @@ let age = 25;          // TypeScript infers `number`
 let name = "Soraz";    // TypeScript infers `string`
 let isActive = true;   // TypeScript infers `boolean`
 
+```
+
 # How TypeScript Enhances Code Quality & Project Maintenance
 
 TypeScript does more than just add types to JavaScript. It improves the reliability and manageability of your code, making it more stable, easier to scale, and reducing the chance of errors.
